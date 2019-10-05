@@ -11,6 +11,13 @@ Machines (ASM) and Hardware Description Languages (e.g., VHDL.). Synchronous
 sequential logic design with programmable logic (PLD, ROM, FPGA). Applications in
 designing computer interfaces and controllers. Asynchronous circuits. Hazards.
 
-| Labs        |Description|
-| ------------- |:-------------:|
-|[Lab 2](Labs/Lab02)| Chapter 2 (HDL Based Designs) and Chapter 3 (Hierarchical Design)
+## Subjects:
+ Chapter 2, Introduction to digital systems   
+ Chapter 3, Implementation Technology , PLA, PLD, FPGA  
+ Chapter 4, Logical Function Optimization , K-map, cubic representation, logical synthesis, Quine-McCluskey method   
+ Chapter 5, , Arithmetic Circuits Adders, multiplications and ALU circuits  
+ Chapters 6 and 7, Combinational and Sequential Circuit Components Multiplexers, encoders, decoders, latches, flip-flops, counters, registers…    
+ Chapter 8, Sequential Synchronous Circuits Finite state machine, transition table,Mealy and Moore models, Incompletely specified sequential circuits, Algorithmic state machine   
+ Chapter 9, Sequential Asynchronous Circuits , Asynchronous circuit analysis and synthesis   
+ Chapter 10, Digital system design , Examples
+ 
